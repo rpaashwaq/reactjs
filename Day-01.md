@@ -1,40 +1,48 @@
-```Questpond ReactJs```
+```javascript
+Questpond ReactJs
 --Lab requirement--
 --Node Js
 --VSCode
 --Visual Sudio Community Edition 2022
-
-```Day1```
+```
+```javascript
+Day1
 
 Javascript is a dynamic scripting language
 Interpreted at client side by V8 engine
 
 JS - ES - Ecmascript  - Standard for scripting langauge
 HTML - W3C
-
+```
+```javascript
 var i = 10;
 i = 'pradeep';
 i = true;
 let i =1;
-
+```
+```javascript
 NodeJs
 - Javascript runtime environment 
 - Cross platform
 - Open source
-
+```
+```javascript
 var- global /function scope
 let - blocked scope
 
 Hoisting
 Scan the code & move the declaration on the top
-
+```
+```javascript
 ReactJs
 - Library used for developing reusable UI component
 - Known for speed, scalability, simplicity
-
+```
+```javascript
 map() - Transforming each item in the array,  Can be used for modifying objects
 spread operator - expanding an array
 rest operator - collect in to a array
+```
 ```javascript
 first.js
 --------
@@ -115,5 +123,3 @@ function add(x, y, ...remainingNos) {
 
 console.log(`Result = ${add(1, 2, 3, 4, 5, 6, 7, 8)} `);
 ```
-
---Day2---
