@@ -35,7 +35,7 @@ ReactJs
 map() - Transforming each item in the array,  Can be used for modifying objects
 spread operator - expanding an array
 rest operator - collect in to a array
-
+```javascript
 first.js
 --------
 var a = 100;
@@ -55,8 +55,8 @@ for(let i1=0;i1<3;i1++){
     console.log(i1);
 }
 console.log(i1);
-
-'''javascript
+```
+```javascript
 array.js
 --------
 let arr = [1, 23, 4, 5];
@@ -114,5 +114,6 @@ function add(x, y, ...remainingNos) {
 }
 
 console.log(`Result = ${add(1, 2, 3, 4, 5, 6, 7, 8)} `);
-'''
+```
+
 --Day2---
