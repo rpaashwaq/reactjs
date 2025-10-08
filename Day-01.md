@@ -64,6 +64,20 @@ for(let i1=0;i1<3;i1++){
 }
 console.log(i1);
 ```
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="first.js"></script>
+</head>
+<body>
+    <h4>This is my first app</h4>
+</body>
+</html>
+```
 ```javascript
 array.js
 --------
